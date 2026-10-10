@@ -7,8 +7,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0136-single-number) |
+| [3921-score-validator](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3921-score-validator) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [3921-score-validator](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3921-score-validator) |
+## Simulation
+|  |
+| ------- |
+| [3921-score-validator](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3921-score-validator) |
 <!---LeetCode Topics End-->
