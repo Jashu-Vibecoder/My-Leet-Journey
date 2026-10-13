@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0263-ugly-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
