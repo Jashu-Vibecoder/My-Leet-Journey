@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0263-ugly-number) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
