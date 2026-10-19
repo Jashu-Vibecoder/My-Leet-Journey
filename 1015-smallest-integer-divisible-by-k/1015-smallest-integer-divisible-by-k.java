@@ -4,18 +4,13 @@ class Solution {
         if (k % 2 == 0 || k % 5 == 0) {
             return -1;
         }
-        int count = 0;
-        int r = 0;
-
-        do {
-
-            r = ((r * 10) + 1) % k;
-            count++;
-            if (r == 0) {
-                return count;
+        int r=0;
+        for(int i=1;i<=k;i++){
+            r=((r*10)+1)%k;
+            if(r==0){
+                return i;
             }
-
-        } while (r != 0);
+        }
 
         return -1;
     }
