@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0164-maximum-gap) |
 | [0260-single-number-iii](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Pigeonhole Principle
@@ -142,8 +146,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0164-maximum-gap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
