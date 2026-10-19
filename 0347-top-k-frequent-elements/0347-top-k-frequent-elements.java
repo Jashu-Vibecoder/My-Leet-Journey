@@ -1,6 +1,5 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        System.gc();
         int n = nums.length;
         // Arrays.sort(nums);
 
