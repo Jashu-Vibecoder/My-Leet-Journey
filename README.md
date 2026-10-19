@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0263-ugly-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2427-number-of-common-factors](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0645-set-mismatch](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0645-set-mismatch) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2032-two-out-of-three](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2032-two-out-of-three) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0287-find-the-duplicate-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
