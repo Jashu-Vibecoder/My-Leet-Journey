@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [2396-strictly-palindromic-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2396-strictly-palindromic-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0347-top-k-frequent-elements) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
