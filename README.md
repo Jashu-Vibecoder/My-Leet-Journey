@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -179,5 +180,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
