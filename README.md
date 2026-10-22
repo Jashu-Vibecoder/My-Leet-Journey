@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0724-find-pivot-index) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
