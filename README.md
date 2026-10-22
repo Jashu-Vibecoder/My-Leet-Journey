@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [2942-find-words-containing-character](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2942-find-words-containing-character) |
 | [3921-score-validator](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3921-score-validator) |
 ## Simulation
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
