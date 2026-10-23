@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0152-maximum-product-subarray) |
@@ -149,10 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0052-n-queens-ii) |
 ## Matrix
 |  |
