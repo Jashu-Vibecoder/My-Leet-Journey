@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0645-set-mismatch) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0206-reverse-linked-list) |
 ## Prefix Sum
 |  |
