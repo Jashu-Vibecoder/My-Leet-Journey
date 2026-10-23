@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0724-find-pivot-index) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0287-find-the-duplicate-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Number Theory
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1004-max-consecutive-ones-iii) |
 ## String Matching
 |  |
 | ------- |
