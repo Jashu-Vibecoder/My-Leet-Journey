@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0342-power-of-four) |
