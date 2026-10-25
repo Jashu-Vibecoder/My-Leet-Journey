@@ -6,12 +6,11 @@ class Solution {
         for(int i=0;i<s.length();i++ ){
             if(s.charAt(i)=='('){
                 d++;
+                md=Math.max(d,md);
             }else if(s.charAt(i)==')'){
                 d--;
-            }else{
-                continue;
             }
-            md=Math.max(d,md);
+            
         }
 
         return md;
