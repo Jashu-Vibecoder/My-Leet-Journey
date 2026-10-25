@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2942-find-words-containing-character) |
 | [3731-find-missing-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3731-find-missing-elements) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3921-score-validator](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3921-score-validator) |
 ## Bit Manipulation
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0073-set-matrix-zeroes) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1400-construct-k-palindrome-strings](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1400-construct-k-palindrome-strings) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
