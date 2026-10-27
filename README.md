@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0258-add-digits) |
 | [3921-score-validator](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3921-score-validator) |
 ## Enumeration
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0728-self-dividing-numbers) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
