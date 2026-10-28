@@ -1,25 +1,25 @@
 class Solution {
     public boolean judgeCircle(String moves) {
-        /*
-        u->(i-1,j)
-        d->(i+1,j)
-        l->(i,j+1)
-        r->(i,j-1)
-         */
+
         int i = 0;
         int j = 0;
-        for (int x = 0; x < moves.length(); x++) {
-            if (moves.charAt(x) == 'U') {
-                i = i - 1;
-            } else if (moves.charAt(x) == 'D') {
-                i = i + 1;
-            } else if (moves.charAt(x) == 'L') {
-                j = j - 1;
-            } else if (moves.charAt(x) == 'R') {
-                j = j + 1;
+        for (char x : moves.toCharArray()) {
+            switch (x) {
+                case 'U':
+                    i = i - 1;
+                    break;
+                case 'D':
+                    i = i + 1;
+                    break;
+                case 'L':
+                    j = j - 1;
+                    break;
+                case 'R':
+                    j = j + 1;
+                    break;
             }
         }
 
-        return (i == 0 && j == 0) ? true : false;
+        return (i == 0 && j == 0);
     }
 }
