@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0643-maximum-average-subarray-i) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0876-middle-of-the-linked-list) |
