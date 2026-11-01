@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0645-set-mismatch) |
+| [1486-xor-operation-in-an-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2032-two-out-of-three) |
 ## String
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2396-strictly-palindromic-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2409-count-days-spent-together) |
