@@ -6,7 +6,7 @@ class Solution {
         for(int i=1;i<=n;i++){
             if(i%m!=0){
                 sum1+=i;
-            }else if(i%m==0){
+            }else {
                 sum2+=i;
             }
         }
