@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -305,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
