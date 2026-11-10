@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0509-fibonacci-number) |
 ## Greedy
