@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0260-single-number-iii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
