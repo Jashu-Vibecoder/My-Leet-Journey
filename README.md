@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0693-binary-number-with-alternating-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2032-two-out-of-three) |
 ## String
