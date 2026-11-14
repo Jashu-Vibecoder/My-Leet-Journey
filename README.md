@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2032-two-out-of-three](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2942-find-words-containing-character) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0657-robot-return-to-origin) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3921-score-validator](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3921-score-validator) |
 ## Enumeration
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3731-find-missing-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1400-construct-k-palindrome-strings](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1400-construct-k-palindrome-strings) |
 | [2032-two-out-of-three](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2032-two-out-of-three) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3731-find-missing-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0347-top-k-frequent-elements) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Quickselect
 |  |
 | ------- |
@@ -303,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1400-construct-k-palindrome-strings](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1400-construct-k-palindrome-strings) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Graph Theory
 |  |
 | ------- |
