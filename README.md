@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2032-two-out-of-three](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2942-find-words-containing-character) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0657-robot-return-to-origin) |
 | [1400-construct-k-palindrome-strings](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1400-construct-k-palindrome-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2409-count-days-spent-together](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2942-find-words-containing-character) |
 | [3921-score-validator](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3921-score-validator) |
