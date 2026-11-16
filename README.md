@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1400-construct-k-palindrome-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2942-find-words-containing-character) |
 | [3921-score-validator](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3921-score-validator) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0657-robot-return-to-origin) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3921-score-validator](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3921-score-validator) |
 ## Enumeration
