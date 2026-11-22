@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2942-find-words-containing-character) |
+| [3046-split-the-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3046-split-the-array) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3731-find-missing-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3731-find-missing-elements) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1400-construct-k-palindrome-strings) |
 | [2032-two-out-of-three](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2032-two-out-of-three) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3046-split-the-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3046-split-the-array) |
 | [3731-find-missing-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1400-construct-k-palindrome-strings](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1400-construct-k-palindrome-strings) |
+| [3046-split-the-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3046-split-the-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
