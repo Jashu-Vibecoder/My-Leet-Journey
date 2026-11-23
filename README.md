@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2942-find-words-containing-character) |
 | [3046-split-the-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3046-split-the-array) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3731-find-missing-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2032-two-out-of-three) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3046-split-the-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3046-split-the-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
