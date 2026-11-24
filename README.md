@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3731-find-missing-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2427-number-of-common-factors) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Linked List
 |  |
 | ------- |
