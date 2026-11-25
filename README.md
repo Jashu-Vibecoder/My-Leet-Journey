@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2032-two-out-of-three](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2427-number-of-common-factors) |
