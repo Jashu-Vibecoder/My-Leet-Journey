@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/0657-robot-return-to-origin) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3360-stone-removal-game](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3360-stone-removal-game) |
 | [3921-score-validator](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3921-score-validator) |
 ## Enumeration
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2427-number-of-common-factors) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3360-stone-removal-game](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Jashu-Vibecoder/My-Leet-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
