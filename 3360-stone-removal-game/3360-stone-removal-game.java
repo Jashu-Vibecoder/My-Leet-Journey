@@ -1,12 +1,23 @@
 class Solution {
     public boolean canAliceWin(int n) {
-        if ((n >= 10 && n <= 18) ||
-            (n >= 27 && n <= 33) ||
-            (n >= 40 && n <= 44) ||
-            (n >= 49 && n <= 50)) {
-            return true;
-        } else {
+        int req = 10;
+        if (n < req) {
             return false;
         }
+
+        boolean aliceTurn = true;
+
+        while (req > 0) {
+            if (n < req) {
+                return !aliceTurn;
+            }
+
+            n -= req;
+            req--;
+            aliceTurn = !aliceTurn;
+        }
+
+        return !aliceTurn;
+
     }
 }
